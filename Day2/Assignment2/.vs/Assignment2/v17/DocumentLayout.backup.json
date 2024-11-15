@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|solutionrelative:Q10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|solutionrelative:Q8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|solutionrelative:Q7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|solutionrelative:Q5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|solutionrelative:Q6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|solutionrelative:Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9F903-2516-4EE4-82C2-E5431B12053B}|Assignment2.vcxproj|solutionrelative:Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q10.cpp",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q10.cpp",
+              "RelativeDocumentMoniker": "Q10.cpp",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q10.cpp",
+              "RelativeToolTip": "Q10.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T10:03:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q8.cpp",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q8.cpp",
+              "RelativeDocumentMoniker": "Q8.cpp",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q8.cpp",
+              "RelativeToolTip": "Q8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T09:56:22.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q7.cpp",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q7.cpp",
+              "RelativeDocumentMoniker": "Q7.cpp",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q7.cpp",
+              "RelativeToolTip": "Q7.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T11:43:22.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q6.cpp",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q6.cpp",
+              "RelativeDocumentMoniker": "Q6.cpp",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q6.cpp",
+              "RelativeToolTip": "Q6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T11:41:36.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q5.cpp",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q5.cpp",
+              "RelativeDocumentMoniker": "Q5.cpp",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q5.cpp",
+              "RelativeToolTip": "Q5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T11:31:06.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Q3.cpp",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q3.cpp",
+              "RelativeDocumentMoniker": "Q3.cpp",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q3.cpp",
+              "RelativeToolTip": "Q3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T11:05:14.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Q2.cpp",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q2.cpp",
+              "RelativeDocumentMoniker": "Q2.cpp",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day2\\Assignment2\\Q2.cpp",
+              "RelativeToolTip": "Q2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T10:32:00.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

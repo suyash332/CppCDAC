@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E37038-ED59-4589-B1E3-6A3374A8DEA1}|devpro.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\devpro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25E37038-ED59-4589-B1E3-6A3374A8DEA1}|devpro.vcxproj|solutionrelative:devpro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E37038-ED59-4589-B1E3-6A3374A8DEA1}|devpro.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\myheader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25E37038-ED59-4589-B1E3-6A3374A8DEA1}|devpro.vcxproj|solutionrelative:myheader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E37038-ED59-4589-B1E3-6A3374A8DEA1}|devpro.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25E37038-ED59-4589-B1E3-6A3374A8DEA1}|devpro.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myheader.h",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\myheader.h",
+              "RelativeDocumentMoniker": "myheader.h",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\myheader.h",
+              "RelativeToolTip": "myheader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T13:41:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.h",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T13:39:53.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "devpro.cpp",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\devpro.cpp",
+              "RelativeDocumentMoniker": "devpro.cpp",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\MyCpp\\Developer\\devpro\\devpro.cpp",
+              "RelativeToolTip": "devpro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T13:39:26.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

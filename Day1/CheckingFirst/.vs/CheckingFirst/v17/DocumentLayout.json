@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\CheckingFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7BAA5A-7029-4B06-A60E-8E65CF217245}|CheckingFirst\\CheckingFirst.vcxproj|F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\CheckingFirst\\CheckingFirst\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD7BAA5A-7029-4B06-A60E-8E65CF217245}|CheckingFirst\\CheckingFirst.vcxproj|solutionrelative:CheckingFirst\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\CheckingFirst\\CheckingFirst\\Source.cpp",
+              "RelativeDocumentMoniker": "CheckingFirst\\Source.cpp",
+              "ToolTip": "F:\\SmVita\\C\u002B\u002B\\Assignment\\Day1\\CheckingFirst\\CheckingFirst\\Source.cpp",
+              "RelativeToolTip": "CheckingFirst\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T10:36:18.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
